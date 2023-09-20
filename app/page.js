@@ -12,7 +12,7 @@ export default function Home() {
         <div className="flex justify-between">
           <a
             className="m-2"
-            href=""
+            href="https://t.me/ethereumtwochat"
           >
             <FontAwesomeIcon
               icon={faXTwitter}
@@ -21,7 +21,7 @@ export default function Home() {
               style={{ width: "24px", height: "24px" }}
             />
           </a>
-          <a className="m-2" href="">
+          <a className="m-2" href="https://t.me/ethereumtwochat">
             <FontAwesomeIcon
               icon={faTelegram}
               size="lg"
@@ -220,7 +220,7 @@ export default function Home() {
         <div className="flex justify-between mt-6">
           <a
             className="m-2"
-            href=""
+            href="https://t.me/ethereumtwochat"
           >
             <FontAwesomeIcon
               icon={faXTwitter}
@@ -228,7 +228,7 @@ export default function Home() {
               className="w-8 h-8 text-black hover:text-[#24038B]"
             />
           </a>
-          <a className="m-2" href="">
+          <a className="m-2" href="https://t.me/ethereumtwochat">
             <FontAwesomeIcon
               icon={faTelegram}
               size="lg"
